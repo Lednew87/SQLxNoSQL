@@ -1,2 +1,10 @@
 # SQLxNoSQL
 Papel dos bancos de dados relacionais (SQL) e não relacionais (NoSQL) no contextode um Engenheiro de Dados. 
+Dentro do contexto dos dados, a capacidade de armzenamento, processamento e tratamento dos mesmos, faz toda a diferença dependendo com qual área de atuação o 
+Data Engineer aplicará estes dados para que a informação traga o resultado desejado de acordo com a política de negócio da empresa ou situação que ele se encontre.
+Os bancos de dados relacionais ou simplesmente SQL-Standard Query Language, é a linguagem mais famosa e popular do mundo. 
+Ela é usada para executar comandos baseados em bancos de dados relacionais, ou seja, tabelas. Ele cria bancos de dados, tabelas, colunas, índices, 
+garante e revoga direitos do usuário e navega pelos dados armazenados em bancos de dados.
+Os bancos de dados relacionais (SQL) são adequados para empresas que desejam aproveitar estruturas e esquemas predefinidos. Por exemplo, aplicativos que exigem transações de várias linhas ou que são executados em sistemas legados irão prosperar com estruturas de dados relacionais (SQL). 
+Os bancos de dados não relacionais (NoSQL), por outro lado, são adequados para empresas e bancos de dados em rápido crescimento sem uma definição clara de esquema. Observe que sempre que você não pode definir o esquema do seu banco de dados, você está desnormalizando o esquema de dados. Se seu esquema está mudando constantemente, uma estrutura de dados não relacionais (NoSQL) pode ser uma boa escolha.
+Como o mundo que vivemos hoje, onde o tempo de se tomar uma atitude, decisão ou qual caminho escolher, define se você terá sucesso ou fracasso, a escolha do Data Engineer vai depender do modelo de negócio onde ele executa suas habilidades. O crescimento de aplicações cada vez mais dinâmicas tem aumentado significativamente o uso do banco de dados NoSQL, porém ainda existem situações em que o banco da dados SQL é a melhor ferramenta. O Data Engineer tem que utilizar da visão macro da situação pra que a escolha seja acertiva e não proporcione problemas e futuras quedas de desempenho de uma aplicação, por exemplo. 
